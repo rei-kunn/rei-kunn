@@ -42,7 +42,7 @@ Since the world is in the quarantine stage:earth_asia:, and I’m having lots of
 
  ### Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 <p>
- NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github.
+<!--  NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github. -->
 
 <!-- GitHub README Stats -->
 
