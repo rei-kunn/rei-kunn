@@ -12,8 +12,8 @@ I'm Rei! I'm a **AI Product Deveooper**:iphone:, looking to solve **real-world p
 <!-- Your badges -->
 <!-- [![Google Playstore](https://img.shields.io/badge/-Joy_Apps_Developers_Team-gray?style=flat&logo=Google-Play&logoColor=white)](https://play.google.com/store/apps/developer?id=Joy+Apps+Developers+Team&hl=en_IN) -->
 
-[![Linkedin](https://img.shields.io/badge/-Rei-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/reislp/)
-[![Gmail](https://img.shields.io/badge/-reitiu20-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:reitiu20@gmail.com)
+<!-- [![Linkedin](https://img.shields.io/badge/-Rei-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/reislp/) -->
+[![Gmail](https://img.shields.io/badge/-reitiu20-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:aggamin01@gmail.com)
 [![Instagram](https://img.shields.io/badge/-Rei_kun_-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/rei_kun_)
 <!-- [![Telegram](https://img.shields.io/badge/-@joykishan_sharma-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/joykishan_sharma) -->
 <!-- [![CodePen](https://img.shields.io/badge/-joykishan_sharma-black?style=flat&logo=CodePen&logoColor=white)](https://codepen.io/joykishan_sharma)
